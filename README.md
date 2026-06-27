@@ -104,4 +104,4 @@ The fastest way to manage your Git workflow.
 
 *Happy Coding! You're now set up with a professional, secure, and fast Git environment.*
 
-> **Setup guide curated by [Rakesh Kundu](https://github.com/Raxku2) | Powered by [Git](https://git-scm.com/) and [Lazygit**](https://github.com/jesseduffield/lazygit)
+> Setup guide curated by [Rakesh Kundu](https://github.com/Raxku2) | Powered by [Git](https://git-scm.com/) and [Lazygit](https://github.com/jesseduffield/lazygit)
